@@ -1,6 +1,6 @@
-# Maitiri+ Android
+# Maitiri+ Desktop
 
-Download the latest APK from **Releases**.
+Download the latest EXE from **Releases**.
 
 ## 📦 Install
 1. Open the **Releases** tab
